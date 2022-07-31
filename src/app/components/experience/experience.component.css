@@ -1,0 +1,18 @@
+.mat-card {
+    background-color: #ffc8dd;
+}
+.mat-card-content {
+    color: black;
+}
+.mat-card-title {
+    color: black;
+}
+
+.mat-card-subtitle {
+    color: black;
+}
+
+.container {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

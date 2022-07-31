@@ -1,0 +1,17 @@
+.profile {
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 10%;
+    width: 400px;
+    clip-path: circle();
+}
+
+.mat-card {
+    display: flex;
+    background-color: whitesmoke;
+    color: black;
+}
+.mat-card-content {
+    padding-top: 3em;
+    margin-left: 10%;
+}
